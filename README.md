@@ -8,8 +8,3 @@ This sample relates to the [Working with Maps in Xamarin.Forms](http://developer
 Requirements 
 ------------
 An iOS provisioning profile is required to deploy this sample to a simulator.
-
-Author
-------
-
-Craig Dunn
